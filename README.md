@@ -1,4 +1,4 @@
-# The adventure of peter
+# The Adventure of Peter
 
 ![alt text](https://cdn.midjourney.com/31cae7fc-a98d-4f9b-ba2f-56ea8ba72327/0_0.png)
 
